@@ -11,3 +11,19 @@
 ### Installations
 1) Node.js
 2) create-react-app
+
+## React States and Working with Events
+1) Handling Events
+2) Updating the UI & Working with "State"
+3) A Closer Look At Components & State
+
+### Project
+1) Expense-Tracker
+    1) ExpenseForm.js
+    2) ExpenseFilter.js
+
+### Learning
+1) How to add event listeners in React.js
+2) How to change the UI (useState).
+3) Two-way Communication using props.
+
