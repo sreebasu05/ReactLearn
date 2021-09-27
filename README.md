@@ -27,3 +27,10 @@
 2) How to change the UI (useState).
 3) Two-way Communication using props.
 
+## useEffect
+1) Allows to run a code when it's dependencies changes
+2) Cleanups: Learned about timeouts and how useeffect can help reduce the no of unwanted validating codes or anything else
+
+### Project
+1) login
+
